@@ -43,7 +43,7 @@ const World = () => (
         <div className="absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
           <img src="people-03.png" alt="people" className="w-full h-full glassmorphism3" />
         </div>
-        <div className="absolute top-1/2 left-[10%] w-[217px] h-[167px] p-[6px] rounded-2xl  bg-[#5D6680] ">
+        <div className="absolute top-1/2 left-[10%] w-[217px] h-[167px] p-[6px] rounded-2xl  bg-[#5D6680]">
           <img src="/card2.png" alt="people" className={`w-full h-full object-cover rounded-3xl glassmorphism2`}  />
           <h3 className =" -mt-10 ml-4 font-semibold text-[18px] text-white absolute z-1">
              The Upside Down
