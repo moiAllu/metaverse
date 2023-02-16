@@ -104,7 +104,27 @@
     rgba(255, 255, 255, 0) 100%
   );
 }
+.gradient-06 {
+  position: absolute;
+  width: 200px;
+  height: 438px;
+  top: 0px;
+  left: 0px;
 
+  background: #7aebfb;
+  filter: blur(190px);
+}
+.gradient-07 {
+  position: absolute;
+  width: 304px;
+  height: 100vh;
+  left: 0;
+  top: 0;
+
+  background: rgba(73, 108, 215, 0.75);
+  filter: blur(200px);
+  transform: rotate(-53.13deg);
+}
 .feedback-gradient {
   position: absolute;
   width: 200px;

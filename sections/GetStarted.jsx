@@ -9,6 +9,8 @@ import { staggerContainer, fadeIn, planetVariants } from '../utils/motion';
 
 const GetStarted = () => (
   <section className={`${styles.paddings} relative z-10`}>
+    <div className="gradient-02 z-0" />
+    <div className="gradient-07 z-0" />
     <motion.div
       variants={staggerContainer}
       initial="hidden"
@@ -42,6 +44,7 @@ const GetStarted = () => (
           ))}
         </div>
       </motion.div>
+      <div className="gradient-04 z-0" />
     </motion.div>
   </section>
 );
