@@ -51,6 +51,27 @@
   -webkit-backdrop-filter: blur(4px);
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
+.glassmorphism2 {
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 8px 16px 64px 8px rgba(200, 0, 255, 0.374);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 24px;
+}
+.glassmorphism3 {
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 4px 8px 32px 4px rgba(255, 255, 255, 0.427);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 100%;
+}
+.glassmorphism4 {
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 8px 16px 64px 8px rgba(77, 2, 252, 0.39);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 24px;
+}
 
 .gradient-03 {
   position: absolute;
